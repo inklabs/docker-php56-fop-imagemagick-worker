@@ -1,6 +1,6 @@
 FROM inklabs/php56-fpm
 
-LABEL maintainer "Jamie Isaacs <pdt256@gmail.com>"
+LABEL maintainer="Jamie Isaacs <pdt256@gmail.com>"
 
 RUN apt-get update \
     && apt-get -y install \
