@@ -1,4 +1,4 @@
-FROM inklabs/php56-fpm
+FROM inklabs/php-fpm:5.6
 
 LABEL maintainer="Jamie Isaacs <pdt256@gmail.com>"
 
